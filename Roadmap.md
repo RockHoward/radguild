@@ -30,17 +30,22 @@
 
 3. Organize and conduct first quarterky Member's Round Table.
 
+4.Develop marketing plan to raise awareness about Guild blueprints.
+
 ### Q3, 2022
 
-1. 
+1. Execute marketing plan to attract developers to the Guild blueprints.
+
+2. Create a coordinated launch plan for Guild and Customer projects relative to the Babylon release.
 
 ### Post Babylon Release
 
-1. Finalize all open RadGuild DAO design issues.
+1. Execute launch plan for Guild projects and Customer projects.
 
-2. Complete development work on the RadGuild DAO.
+2. Finalize all open RadGuild DAO design issues.
 
-3. Launch the RadGuild DAO and dismiss the operating and administrational staff.
+3. Complete development work on the RadGuild DAO.
 
+4. Launch the RadGuild DAO and dismiss the operating and administrational staff.
 
 [**Back**](./index.md)
