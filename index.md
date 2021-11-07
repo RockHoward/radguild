@@ -14,7 +14,7 @@
 
 ### [Sponsorship](./Sponsorship.md)
 
-Contact the Radix Guild by email at rock@rockmhoward.com or by messaging Rock Howard#8203 on discord.
+Contact the Radix Guild by email at rockmhoward@gmail.com or by messaging Rock Howard#8203 on discord.
 
 [**Radix Programmer's Guild Blog**](https://www.publish0x.com/radix-programmers-guild)
 

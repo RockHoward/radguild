@@ -18,7 +18,7 @@
 - blueprint certification, and
 - auditing.
 
-Contact the Guild and let us help project succeed!
+Contact the Guild and let us help your Radix project succeed!
 
 ---------------------------------
 
