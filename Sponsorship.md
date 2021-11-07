@@ -1,5 +1,3 @@
-[**Back**](./index.md)
-
 ## Sponsorship
 
 Sponsors are featured on RadGuild websites and in other ways TBD.

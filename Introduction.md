@@ -1,5 +1,3 @@
-[**Back**](./index.md)
-
 ## Introduction
 
 **RadGuild** is a member-directed community of designers and developers who are building the future of the world's financial services using the Radix protocol.

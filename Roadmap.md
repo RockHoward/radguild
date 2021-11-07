@@ -1,5 +1,3 @@
-[**Back**](./index.md)
-
 ## Roadmap
 
 ### Q4, 2021
@@ -34,18 +32,18 @@
 
 ### Q3, 2022
 
-1. Execute marketing plan to attract developers to the Guild blueprints.
+1. Execute the marketing plan to entice developers to use the Guild blueprints.
 
 2. Create a coordinated launch plan for Guild and Customer projects relative to the Babylon release.
 
 ### Post Babylon Release
 
-1. Execute launch plan for Guild projects and Customer projects.
+1. Execute launch plan for Guild and Customer projects.
 
 2. Finalize all open RadGuild DAO design issues.
 
 3. Complete development work on the RadGuild DAO.
 
-4. Launch the RadGuild DAO and dismiss the operating and administrational staff.
+4. Launch the RadGuild DAO.
 
 [**Back**](./index.md)
