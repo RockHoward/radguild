@@ -16,11 +16,11 @@ All RadGuild members in good standing get:
 
 Membership requires a tribute of $25 (or equivalent) per quarter starting in Q1, 2022.
 
-- Members paying their tribute in USD will use a TBD online payment processer.
+- Members paying their tribute in USD will use a TBD online payment processor.
 
 - XRD payment is another option. The amount of XRD required is updated weekly.
 
-- Members with a large enough claim on the RadGuild Treasury may deducte their tribute from their claim.
+- Members with a large enough claim on the RadGuild Treasury may deduct their tribute from their claim.
 
 - Tributes are due during the first month of each quarter.
 

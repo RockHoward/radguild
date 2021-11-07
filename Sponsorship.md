@@ -2,7 +2,7 @@
 
 Sponsors are featured on RadGuild websites and in other ways TBD.
 
-Inquire about **Custom Premiere Sppnsorships** and **Major Sponsorships**.
+Inquire about **Custom Premiere Sponsorships** and **Major Sponsorships**.
 
 **Individual Sponsorships** are 500 XRD per quarter paid in advance.
 

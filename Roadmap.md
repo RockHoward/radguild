@@ -2,13 +2,13 @@
 
 ### Q4, 2021
 
-1. Launch web presence and discord, Begin processing memberships (whch are free through 2021 EOY.)
+1. Launch web presence and discord, Begin processing memberships (which are free through 2021 EOY.)
 
 2. Launch initial projects and setup public and private repos.
 
 3. Interact with early members to refine the initial renumeration and profit sharing model.
 
-4. Make initial Treasury payouts to quaifying members,
+4. Make initial Treasury payouts to qualifying members.
 
 ### Q1, 2022
 
@@ -26,7 +26,7 @@
 
 2. Begin work on the development roadmap for the RadGuild DAO.
 
-3. Organize and conduct first quarterky Member's Round Table.
+3. Organize and conduct first quarterly Member's Round Table.
 
 4.Develop marketing plan to raise awareness about Guild blueprints.
 
