@@ -1,12 +1,12 @@
 ## The Radix Programmer's Guild
 
-**RadGuild** is a member-directed community of designers and developers who are building core software building blocks (aka blueprints) and key distributed applications (aka Dapps) for the [**Radix Decentralized Ledger**](https://radixdlt.com) which we believe will become the key enabling technology for the free world's digital economy of the future.
+**RadGuild** is a member-directed community of designers and developers who are building core software building blocks (aka blueprints) and key distributed applications (aka Dapps) for the [**Radix Decentralized Ledger**](https://radixdlt.com) which we believe will emerge as the key enabling technology for the free world's digital economy.
 
 ### [Introduction](./Introduction.md)
 
-### Manifesto - TBD
+### [Vision](./Vision.md)
 
-### Operation - TBD
+### [Operations](./Operations.md)
 
 ### [Roadmap](./Roadmap.md)
 
@@ -14,7 +14,7 @@
 
 ### [Sponsorship](./Sponsorship.md)
 
-Contact the Radix Guild by email at rock@rockmhoward.com or Rock Howard#8203 on discord.
+Contact the Radix Guild by email at rock@rockmhoward.com or by messaging Rock Howard#8203 on discord.
 
 [**Radix Programmer's Guild Blog**](https://www.publish0x.com/radix-programmers-guild)
 
