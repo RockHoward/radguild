@@ -1,6 +1,6 @@
 ## The Radix Programmer's Guild
 
-**RadGuild** is a member-directed community of designers and developers who are building the core infrastructure for the world-wide digital ecomnomy on the [**Radix Decentralized Ledger**](https://radixdlt.com).
+**RadGuild** is a member-directed community of designers and developers who are building core software building blocks (aka blueprints) and key distributed applications (aka Dapps) for the [**Radix Decentralized Ledger**](https://radixdlt.com) which we believe will become the key enabling technology for the free world's digital economy of the future.
 
 ### [Introduction](./Introduction.md)
 
