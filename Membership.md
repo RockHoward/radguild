@@ -28,10 +28,6 @@ Membership requires a tribute of $25 (or equivalent) per quarter starting in Q1,
 
 RadGuild intends to issue NFTs to members who achieve advanced ranks. Details are TBD.
 
-### Miscellaneous
-
-Some channels of the [**RadGuild discord**](https://discord.gg/rugMH3cNBv) require an advanced rank.
-
 ### Getting an Invitation
 
 You can get an invite to visit the RadGuild discord by:
