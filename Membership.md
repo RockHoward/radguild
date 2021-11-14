@@ -2,9 +2,9 @@
 
 All RadGuild members in good standing get:
 
-- **Free access** to the [**RadGuild Discord**](https://discord.gg/rugMH3cNBv).
+- **Free access** to [**Rust & Scrypto Forum**](https://discord.gg/VSGu5mddse).
 
-- **Free access** to [**Rock and Neal's Scrypto and Rust Forum**](https://discord.gg/VSGu5mddse).
+- **Free access** to the **RadGuild Discord**. (Invitation only. See details below.)
 
 - **Promo codes** for discounts on books and videos about Scrypto and Rust.
 
@@ -31,5 +31,22 @@ RadGuild intends to issue NFTs to members who achieve advanced ranks. Details ar
 ### Miscellaneous
 
 Some channels of the [**RadGuild discord**](https://discord.gg/rugMH3cNBv) require an advanced rank.
+
+You can  get an invite to the RadGuild by:
+
+- writing an impressive introduction outlining your relevant skilld in the Scrypto Forum above; or
+
+- engaging with the learning materials and demonstrating that you are ready for a project; or
+
+- having a member of RadGuild recommend you.
+
+While RadGuild is mainly about supporting developers, we also need graphic designers, project managers,
+project designers, sales people and such as well. If you think that you cn help us succeed and, like
+most RadGuild members, only have some part time hours available, we would like to hear from you.
+
+Or "invite only" membership approach is probably temporary. With time and growth you can expect the Guild
+to start putting out specific calls for people with specific skills just like a normal software firm.
+Right now it is too hard to predict what we might need and so we are taking on a variety of people who
+are attracted to the Guild concept but are preferably already somewhat beyond the rank beginner stage.
 
 [**Back**](./index.md)
