@@ -18,8 +18,9 @@ Contact the Radix Guild by email at rockmhoward@gmail.com or by messaging Rock H
 
 [**Radix Programmer's Guild Blog**](https://www.publish0x.com/radix-programmers-guild)
 
-[**The Radix Programmer's Guild discord**](https://discord.gg/rugMH3cNBv)
-
-[**Rock and Neal's Scrypto and Rust Forum**](https://discord.gg/VSGu5mddse)
+[**Rust & Scrypto Forum**](https://discord.gg/VSGu5mddse) (free training community on discord)
 
 Books and Training Videos coming soon.
+
+The Radix Programmer's Guild is invitation only. Please join the Rust & Scrypto Forum to get up to speed with Scrypto if need be and show your stuff.
+Your Guild invitation will follow.
