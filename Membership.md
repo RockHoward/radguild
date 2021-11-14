@@ -32,16 +32,20 @@ RadGuild intends to issue NFTs to members who achieve advanced ranks. Details ar
 
 Some channels of the [**RadGuild discord**](https://discord.gg/rugMH3cNBv) require an advanced rank.
 
-You can  get an invite to the RadGuild by:
+### Getting an Invitation
 
-- writing an impressive introduction outlining your relevant skilld in the Scrypto Forum above; or
+You can get an invite to visit the RadGuild discord by:
 
-- engaging with the learning materials and demonstrating that you are ready for a project; or
+- writing an impressive introduction outlining your relevant skills in the Scrypto Forum above; or
 
-- having a member of RadGuild recommend you.
+- engaging with the learning materials in the Scrypto Forum and demonstrating that you are ready for a real project; or
+
+- having a member in good standing of RadGuild recommend you.
+
+### Our Recruitment Process
 
 While RadGuild is mainly about supporting developers, we also need graphic designers, project managers,
-project designers, sales people and such as well. If you think that you cn help us succeed and, like
+project designers, sales people and such as well. If you think that you can help us succeed and, like
 most RadGuild members, only have some part time hours available, we would like to hear from you.
 
 Or "invite only" membership approach is probably temporary. With time and growth you can expect the Guild
